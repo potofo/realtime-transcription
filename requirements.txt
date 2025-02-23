@@ -1,0 +1,3 @@
+python-dotenv==1.0.0
+openai==0.28.1
+PyAudio==0.2.14
